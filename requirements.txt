@@ -1,8 +1,6 @@
-streamlit
+streamlit==1.28.0
 opencv-python
 numpy
-mediapipe
+mediapipe==0.10.9
 Pillow
 streamlit-camera-input-live
-
-
